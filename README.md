@@ -4,3 +4,6 @@ Word2vec was created by a team of researchers led by Tomas Mikolov at Google. Th
 
 ## What is deeplearning4j?
 Eclipse Deeplearning4j is a deep learning programming library written for Java and the Java virtual machine (JVM) and a computing framework with wide support for deep learning algorithms. Deeplearning4j includes implementations of the restricted Boltzmann machine, deep belief net, deep autoencoder, stacked denoising autoencoder and recursive neural tensor network, word2vec, doc2vec, and GloVe.
+
+## What is wordNearest?
+wordNearest is an example implementation for find closet word to a given word. wordNearest integrate from deeplearning4j and word2vec model.
